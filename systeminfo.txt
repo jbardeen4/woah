@@ -1,0 +1,93 @@
+Host Name:                 DESKTOP-I2N2OK4
+OS Name:                   Microsoft Windows 10 Home Single Language
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Sathyanarayanan
+Registered Organization:   N/A
+Product ID:                00327-35937-11549-AAOEM
+Original Install Date:     10.10.21, 04:46:19 PM
+System Boot Time:          5.8.24, 03:15:33 PM
+System Manufacturer:       Dell Inc.
+System Model:              Inspiron 14 5410 2-in-1
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~1690 Mhz
+BIOS Version:              Dell Inc. 2.9.0, 14.4.22
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     16,123 MB
+Available Physical Memory: 9,408 MB
+Virtual Memory: Max Size:  18,555 MB
+Virtual Memory: Available: 11,875 MB
+Virtual Memory: In Use:    6,680 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-I2N2OK4
+Hotfix(s):                 42 Hotfix(s) Installed.
+                           [01]: KB5041168
+                           [02]: KB5027122
+                           [03]: KB4534170
+                           [04]: KB4537759
+                           [05]: KB4545706
+                           [06]: KB4562830
+                           [07]: KB4598481
+                           [08]: KB5003791
+                           [09]: KB5011048
+                           [10]: KB5012170
+                           [11]: KB5015684
+                           [12]: KB5040427
+                           [13]: KB5006753
+                           [14]: KB5007273
+                           [15]: KB5011352
+                           [16]: KB5011651
+                           [17]: KB5014032
+                           [18]: KB5014035
+                           [19]: KB5014671
+                           [20]: KB5015895
+                           [21]: KB5016705
+                           [22]: KB5018506
+                           [23]: KB5020372
+                           [24]: KB5022924
+                           [25]: KB5023794
+                           [26]: KB5025315
+                           [27]: KB5026879
+                           [28]: KB5028318
+                           [29]: KB5028380
+                           [30]: KB5029709
+                           [31]: KB5031539
+                           [32]: KB5032392
+                           [33]: KB5032907
+                           [34]: KB5034224
+                           [35]: KB5035225
+                           [36]: KB5036447
+                           [37]: KB5037018
+                           [38]: KB5037240
+                           [39]: KB5037995
+                           [40]: KB5039336
+                           [41]: KB5005699
+                           [42]: KB5034441
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: TAP-Windows Adapter V9
+                                 Connection Name: McAfee VPN
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.134
+                           [03]: TAP-ProtonVPN Windows Adapter V9
+                                 Connection Name: Local Area Connection
+                                 Status:          Media disconnected
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
